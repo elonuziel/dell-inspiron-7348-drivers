@@ -37,6 +37,6 @@ The Dell Inspiron 7348 can sometimes have aggressive or inefficient BIOS fan cur
 ---
 
 ## 🔗 Useful Links
-*   [Intel Driver Support](https://www.intel.com/content/www/us/en/support/detect.html)
+*   [Intel Forum Support](https://community.intel.com/t5/Wireless/Wifi-AC-7265-not-work/m-p/1727373#M62518)
 *   [ThrottleStop (TechPowerUp)](https://www.techpowerup.com/download/techpowerup-throttlestop/)
 *   [NoteBookFanControl (GitHub)](https://github.com/hirschmann/nbfc)
